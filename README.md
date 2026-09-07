@@ -70,6 +70,18 @@ Through my projects and mentorship, I aim to empower developers and create tools
   </a>
 </p>
 
+## 🐍 javascript Packages & Profile
+## 📦 NPM Packages & Profile
+
+<p align="center">
+  <a href="https://www.npmjs.com/~alainmiki">
+    <img src="https://img.shields.io/badge/NPM-alainmiki-CB3837?logo=npm&logoColor=white" alt="NPM Profile">
+  </a>
+  <a href="https://www.npmjs.com/package/miki-template">
+    <img src="https://img.shields.io/badge/NPM-miki--template-CB3837?logo=npm&logoColor=white" alt="miki-template on NPM">
+  </a>
+</p>
+
 
 ---
 
