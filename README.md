@@ -53,7 +53,7 @@ Through my projects and mentorship, I aim to empower developers and create tools
 - 🌐 **Facebook Page**: [Code with Miki](https://facebook.com/codewithmiki)  
 - 🎥 **YouTube Channel**: [Code with Miki](https://youtube.com/@codewithmiki)  
 - 📸 **Instagram**: [@alain_miki](https://instagram.com/alain_miki)  
-- 🐦 **X (Twitter)**: [@alainmiki](https://x.com/alainmiki)  
+- 🐦 **X (Twitter)**: [@alainmiki](https://x.com/@AlainMiki41933)  
 - 💻 **GitHub**: [@alainmiki](https://github.com/alainmiki)  
 - 📦 **NPM**: [miki-template](https://www.npmjs.com/package/miki-template)  
 ## 🐍 Python Packages & Profile
